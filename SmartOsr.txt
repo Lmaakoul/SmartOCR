@@ -1,0 +1,7 @@
+backend : express js 
+base donner : mongodb could 
+front end : material ua 
+
+library : ocr 
+-------------------
+
